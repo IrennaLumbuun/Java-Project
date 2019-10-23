@@ -1,4 +1,4 @@
-# Java-Project
+# Intro-To-Java-Project
 My final project for Introduction to Java Class: A Library program where users can check out books and see what books are available. GUI is written using JFrame.
 
 Book.java: keeps track of the title and type of books (text books, novel, magazines)
