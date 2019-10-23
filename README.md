@@ -1,2 +1,2 @@
 # Java-Project
-A collection of my final projects for Java Class
+My final project for Introduction to Java Class: A Library program where users can check out books and see what books are available. GUI is written using JFrame.
